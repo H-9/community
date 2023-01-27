@@ -10,8 +10,8 @@ https://elasticsearch.cn/explore
 ②git add .
 ③git -commit -m "注释"
 ④git status 再次查看
-git commit --amend --no-edit 修改上一次变更内容
 
+git commit --amend --no-edit 修改上一次变更内容
 
 ##工具
 
