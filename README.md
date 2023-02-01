@@ -8,7 +8,7 @@ https://elasticsearch.cn/explore
 提交代码：
 ①git status 查看修改后未提交的文件
 ②git add .
-③git -commit -m "注释"
+③git commit -m "注释"
 ④git status 再次查看
 
 git commit --amend --no-edit 修改上一次变更内容
