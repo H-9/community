@@ -5,7 +5,7 @@
 [Spring web](https://spring.io/guides/gs/serving-web-content/)
 [es社区](https://elasticsearch.cn/explore)
 [Bootstrap](https://v3.bootcss.com/)
-
+[Github OAuth](https://docs.github.com/zh/apps/oauth-apps/building-oauth-apps/authorizing-oauth-apps)
 
 提交代码：
 ①git status 查看修改后未提交的文件
@@ -16,4 +16,5 @@
 git commit --amend 修改上一次变更内容,不增添新的log
 
 ##工具
-
+[Git](https://git-scm.com/download)
+[Visual Paradigm](https://www.visual-aradigm.com)
